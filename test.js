@@ -1,4 +1,5 @@
-
+import fetch from "node-fetch";
+//let pack = require('./package.json')
   
 let lyrics = `Uh, yeah, how you doin' today?
 Uh, yeah, uh-huh, yeah
@@ -71,19 +72,114 @@ Octopussy, special effect, the wet bitches be banging
 And please never disrespect my set
 With Canons hanging from our necks like it's a motherfucking circus`
 
-console.log(JSON.stringify(lyrics))
+//console.log(JSON.stringify(lyrics))
 
-function htmlToText(html) {
-  let tempDiv = document.createElement("div");
-  tempDiv.innerHTML = html;
-  return tempDiv.textContent || tempDiv.innerText || "";
+
+// function getWiki() {
+//   let url = "https://en.wikipedia.org/wiki/Tyler,_the_Creator_discography/w/api.php?action=query&meta=siteinfo&siprop=namespaces&format=json"
+//   loadJSON(url, gotData, 'jsonp')
+// }
+
+// function gotData() {
+//   console.log(data)
+//   console.log(url)
+//   console.log("hey")
+// }
+
+// getWiki()
+//   // .then(response => response.json())
+//   // .then(data => {
+//   //     console.log(data)
+//   //   })
+
+// let title = [
+// "Wolf",
+// "Jamba (featuring Hodgy Beats)",
+// "Cowboy",
+// "Awkward",
+// "Domo23",
+// "Answer",
+// "Slater (featuring Frank Ocean)",
+// "48",
+// "Colossus",
+// "PartyIsntOver / Campfire / Bimmer (featuring Lætitia Sadier and Frank Ocean)",
+// "IFHY (featuring Pharrell)",
+// "Pigs",
+// "Parking Lot (featuring Casey Veggies and Mike G)",
+// "Rusty (featuring Domo Genesis and Earl Sweatshirt)",
+// "Trashwang (featuring Left Brain, Na'kel, Jasper, Taco, L-Boy, Lucas and Lee Spielman)",
+// "Treehome95 (featuring Erykah Badu and Coco Owino)",
+// "Tamale",
+// "Lone",
+//]
+// let duration = [
+// '1:50',
+// '2:50',
+// '3:50',
+// '4:50',
+// '5:50',
+// '6:50',
+// '7:50',
+// '8:50',
+// '9:50',
+// '10:50',
+// '11:50',
+// '12:50',
+// '13:50',
+// '14:50',
+// '15:50',
+// '16:50',
+// '17:50',
+// '18:50',
+// ]
+
+let title= [
+  "Igor's Theme",
+  "Earfquake",
+  "I Think",
+  "Exactly What You Run from You End Up Chasing",
+  "Running Out of Time",
+  "New Magic Wand",
+  "A Boy is a Gun",
+  "Puppet",
+  "What's Good",
+  "Gone, Gone / Thank You",
+  "I Don't Love You Anymore",
+  "Are We Still Friends?",
+  ]
+  
+  let duration = [
+    '3:20',
+    '3:10',
+    '3:32',
+    '0:14',
+    '2:57',
+    '3:15',
+    '3:30',
+    '2:59',
+    '3:25',
+    '6:15',
+    '2:41',
+    '4:25',
+  ]
+let wolfTracks = []
+for (let i = 0; i < title.length; i++) {
+  let songTitle = title[i]
+  let trackNum = 1
+  trackNum = i + 1
+  for (let j = 0; j < duration.length; j++){
+    let songLength = duration[j]
+    console.log(duration[j])
+  
+    wolfTracks[i] =
+    {
+      song_title: songTitle,
+      track_number: trackNum,
+      song_length: songLength,
+      lyrics: ""
+    }}
+ // console.log(wolfTracks)
+  
+  console.log(JSON.stringify(wolfTracks))
+
 }
-
-const url = 'https://en.wikipedia.org/wiki/Tyler,_the_Creator_discography';
-
-$.getJSON(url, function(data) {
- const html = data['parse']['text'];
- const plainText = htmlToText(html);
- const array = [...plainText.matchAll(/^\d{4} *–.*/gm)].map(x=>x[0]);
- console.log(array);
-});

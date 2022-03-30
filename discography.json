@@ -226,32 +226,33 @@
           "type": "Studio Album",
           "release_year": 2013,
           "Date": "2013-04-02",
-          "album_length": "",
-          "songs": []
+          "album_length": "71:17",
+          "songs": [{"song_title":"Wolf","track_number":1,"song_length":"18:50","lyrics":""},{"song_title":"Jamba (featuring Hodgy Beats)","track_number":2,"song_length":"18:50","lyrics":""},{"song_title":"Cowboy","track_number":3,"song_length":"18:50","lyrics":""},{"song_title":"Awkward","track_number":4,"song_length":"18:50","lyrics":""},{"song_title":"Domo23","track_number":5,"song_length":"18:50","lyrics":""},{"song_title":"Answer","track_number":6,"song_length":"18:50","lyrics":""},{"song_title":"Slater (featuring Frank Ocean)","track_number":7,"song_length":"18:50","lyrics":""},{"song_title":"48","track_number":8,"song_length":"18:50","lyrics":""},{"song_title":"Colossus","track_number":9,"song_length":"18:50","lyrics":""},{"song_title":"PartyIsntOver / Campfire / Bimmer (featuring Lætitia Sadier and Frank Ocean)","track_number":10,"song_length":"18:50","lyrics":""},{"song_title":"IFHY (featuring Pharrell)","track_number":11,"song_length":"18:50","lyrics":""},{"song_title":"Pigs","track_number":12,"song_length":"18:50","lyrics":""},{"song_title":"Parking Lot (featuring Casey Veggies and Mike G)","track_number":13,"song_length":"18:50","lyrics":""},{"song_title":"Rusty (featuring Domo Genesis and Earl Sweatshirt)","track_number":14,"song_length":"18:50","lyrics":""},{"song_title":"Trashwang (featuring Left Brain, Na'kel, Jasper, Taco, L-Boy, Lucas and Lee Spielman)","track_number":15,"song_length":"18:50","lyrics":""},{"song_title":"Treehome95 (featuring Erykah Badu and Coco Owino)","track_number":16,"song_length":"18:50","lyrics":""},{"song_title":"Tamale","track_number":17,"song_length":"18:50","lyrics":""},{"song_title":"Lone","track_number":18,"song_length":"18:50","lyrics":""}]
+          
         },
         {
           "title": "Cherry Bomb",
           "type": "Studio Album",
           "release_year": 2015,
           "Date": "2015-04-15",
-          "album_length": "",
-          "songs": []
+          "album_length": "54:04",
+          "songs": [[{"song_title":"Deathcamp (featuring Cole Alexander; additional production by Mike Einziger)","track_number":1,"song_length":"6:37","lyrics":""},{"song_title":"Buffalo (featuring Shane Powers)","track_number":2,"song_length":"6:37","lyrics":""},{"song_title":"Pilot (featuring Syd Bennett)","track_number":3,"song_length":"6:37","lyrics":""},{"song_title":"Run (featuring Chaz Bundick and Schoolboy Q)","track_number":4,"song_length":"6:37","lyrics":""},{"song_title":"Find Your Wings (featuring Roy Ayers, Syd Bennett, Jameel Kirk Bruner, Samantha Nelson, Tiffany Palmer, Onitsha Shaw and Kali Uchis)","track_number":5,"song_length":"6:37","lyrics":""},{"song_title":"Cherry Bomb","track_number":6,"song_length":"6:37","lyrics":""},{"song_title":"Blow My Load (featuring Wanya Morris and Dâm-Funk)","track_number":7,"song_length":"6:37","lyrics":""},{"song_title":"2Seater (featuring Aaron Shaw and Samantha Nelson; additional production by Mike Einziger)","track_number":8,"song_length":"6:37","lyrics":""},{"song_title":"The Brown Stains of Darkeese Latifah Part 6–12 (Remix) (featuring Schoolboy Q)","track_number":9,"song_length":"6:37","lyrics":""},{"song_title":"Fucking Young / Perfect (featuring Charlie Wilson, Chaz Bundick, Syd Bennett and Kali Uchis)","track_number":10,"song_length":"6:37","lyrics":""},{"song_title":"Smuckers (featuring Lil Wayne and Kanye West)","track_number":11,"song_length":"6:37","lyrics":""},{"song_title":"Keep Da O's (featuring Pharrell Williams and Coco O)","track_number":12,"song_length":"6:37","lyrics":""},{"song_title":"Okaga, CA (featuring Alice Smith, Leon Ware and Clem Creevy)","track_number":13,"song_length":"6:37","lyrics":""}]]
         },
         {
           "title": "Flower Boy",
           "type": "Studio Album",
           "release_year": 2017,
           "Date": "2017-07-21",
-          "album_length": "",
-          "songs": []
+          "album_length": "46:34",
+          "songs": [[{"song_title":"Foreword (featuring Rex Orange County)","track_number":1,"song_length":"3:55","lyrics":""},{"song_title":"Where This Flower Blooms (featuring Frank Ocean)","track_number":2,"song_length":"3:55","lyrics":""},{"song_title":"Sometimes...","track_number":3,"song_length":"3:55","lyrics":""},{"song_title":"See You Again (featuring Kali Uchis)","track_number":4,"song_length":"3:55","lyrics":""},{"song_title":"Who Dat Boy (featuring ASAP Rocky)","track_number":5,"song_length":"3:55","lyrics":""},{"song_title":"Pothole (featuring Jaden Smith)","track_number":6,"song_length":"3:55","lyrics":""},{"song_title":"Garden Shed (featuring Estelle)","track_number":7,"song_length":"3:55","lyrics":""},{"song_title":"Boredom (featuring Rex Orange County and Anna of the North)","track_number":8,"song_length":"3:55","lyrics":""},{"song_title":"I Ain't Got Time!","track_number":9,"song_length":"3:55","lyrics":""},{"song_title":"911 / Mr. Lonely (featuring Frank Ocean and Steve Lacy)","track_number":10,"song_length":"3:55","lyrics":""},{"song_title":"Droppin' Seeds (featuring Lil Wayne)","track_number":11,"song_length":"3:55","lyrics":""},{"song_title":"November","track_number":12,"song_length":"3:55","lyrics":""},{"song_title":"Glitter","track_number":13,"song_length":"3:55","lyrics":""},{"song_title":"Enjoy Right Now, Today","track_number":14,"song_length":"3:55","lyrics":""}]]
         },
         {
           "title": "IGOR",
           "type": "Studio Album",
           "release_year": 2019,
           "Date": "2019-05-17",
-          "album_length": "",
-          "songs": []
+          "album_length": "39:43",
+          "songs": [[{"song_title":"Igor's Theme","track_number":1,"song_length":"4:25","lyrics":""},{"song_title":"Earfquake","track_number":2,"song_length":"4:25","lyrics":""},{"song_title":"I Think","track_number":3,"song_length":"4:25","lyrics":""},{"song_title":"Exactly What You Run from You End Up Chasing","track_number":4,"song_length":"4:25","lyrics":""},{"song_title":"Running Out of Time","track_number":5,"song_length":"4:25","lyrics":""},{"song_title":"New Magic Wand","track_number":6,"song_length":"4:25","lyrics":""},{"song_title":"A Boy is a Gun","track_number":7,"song_length":"4:25","lyrics":""},{"song_title":"Puppet","track_number":8,"song_length":"4:25","lyrics":""},{"song_title":"What's Good","track_number":9,"song_length":"4:25","lyrics":""},{"song_title":"Gone, Gone / Thank You","track_number":10,"song_length":"4:25","lyrics":""},{"song_title":"I Don't Love You Anymore","track_number":11,"song_length":"4:25","lyrics":""},{"song_title":"Are We Still Friends?","track_number":12,"song_length":"4:25","lyrics":""}]]
         },
         {
           "title": "Call Me If You Get Lost",
@@ -271,7 +272,68 @@
 
 
 
+"song_title":	"Wolf"
+"track_number":	1
+"song_length":	1:50
+"lyrics": ""
 
+
+
+"song_title":	"Jamba (featuring Hodgy Beats)"
+"track_number":	2
+"song_length":	3:32
+
+
+
+"song_title":	"Cowboy"
+"song_title":	"Awkward"
+"song_title":	"Domo23"
+"song_title":	"Answer"
+"song_title":	"Slater (featuring Frank Ocean)"
+"song_title":	"48"
+"song_title":	"Colossus"
+"song_title":	"PartyIsntOver / Campfire / Bimmer" (featuring Lætitia Sadier and Frank Ocean)
+"song_title":	"IFHY (featuring Pharrell)"
+"song_title":	"Pigs"
+"song_title":	"Parking Lot (featuring Casey Veggies and Mike G)"
+"song_title":	"Rusty (featuring Domo Genesis and Earl Sweatshirt)"
+"song_title":	"Trashwang (featuring Left Brain, Na'kel, Jasper, Taco, L-Boy, Lucas and Lee Spielman)"
+"song_title":	"Treehome95 (featuring Erykah Badu and Coco Owino)"
+"song_title":	"Tamale"
+"song_title":	"Lone"
+
+"track_number":	3
+"track_number":	4
+"track_number":	5
+"track_number":	6
+"track_number":	7
+"track_number":	8
+"track_number":	9
+"track_number":	10
+"track_number":	11
+"track_number":	12
+"track_number":	13
+"track_number":	14
+"track_number":	15
+"track_number":	16
+"track_number":	17
+
+"song_length":	3:15
+"song_length":	3:47
+"song_length":	2:38
+"song_length":	3:50
+"song_length":	3:53
+"song_length":	4:07
+"song_length":	3:33
+"song_length":	7:18
+"song_length":	5:19
+"song_length":	4:14
+"song_length":	3:53
+"song_length":	5:09
+"song_length":	4:42
+"song_length":	3:00
+"song_length":	2:46
+"song_length":	4:00
 
 
 
