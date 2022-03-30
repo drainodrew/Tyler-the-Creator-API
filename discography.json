@@ -1,6 +1,5 @@
 [
   {
-    "_id": "0",
     "Project": [{
       "title": "Bastard",
       "type": "Mixtape",
@@ -259,10 +258,8 @@
           "type": "Studio Album",
           "release_year": 2021,
           "Date": "2021-06-25",
-          "album_length": "",
-          "songs": []
-        }
-        }
+          "album_length": "52:41",
+          "songs": [[{"song_title":"Sir Baudelaire (featuring DJ Drama)","track_number":1,"song_length":"2:57","lyrics":""},{"song_title":"Corso","track_number":2,"song_length":"2:57","lyrics":""},{"song_title":"Lemonhead (featuring 42 Dugg)","track_number":3,"song_length":"2:57","lyrics":""},{"song_title":"WusYaName (featuring YoungBoy Never Broke Again and Ty Dolla Sign)","track_number":4,"song_length":"2:57","lyrics":""},{"song_title":"Lumberjack","track_number":5,"song_length":"2:57","lyrics":""},{"song_title":"Hot Wind Blows (featuring Lil Wayne)","track_number":6,"song_length":"2:57","lyrics":""},{"song_title":"Massa","track_number":7,"song_length":"2:57","lyrics":""},{"song_title":"RunItUp (featuring Teezo Touchdown)","track_number":8,"song_length":"2:57","lyrics":""},{"song_title":"Manifesto (featuring Domo Genesis)","track_number":9,"song_length":"2:57","lyrics":""},{"song_title":"Sweet / I Thought You Wanted to Dance (featuring Brent Faiyaz and Fana Hues)","track_number":10,"song_length":"2:57","lyrics":""},{"song_title":"Momma Talk","track_number":11,"song_length":"2:57","lyrics":""},{"song_title":"Rise! (featuring Daisy World; produced by Tyler, the Creator and Jamie xx)","track_number":12,"song_length":"2:57","lyrics":""},{"song_title":"Blessed","track_number":13,"song_length":"2:57","lyrics":""},{"song_title":"Juggernaut (featuring Lil Uzi Vert and Pharrell Williams)","track_number":14,"song_length":"2:57","lyrics":""},{"song_title":"Wilshire","track_number":15,"song_length":"2:57","lyrics":""},{"song_title":"Safari (produced by Tyler, the Creator and Jay Versace)","track_number":16,"song_length":"2:57","lyrics":""}]]
         }
     ]
 
@@ -271,69 +268,6 @@
 
 
 
-
-"song_title":	"Wolf"
-"track_number":	1
-"song_length":	1:50
-"lyrics": ""
-
-
-
-"song_title":	"Jamba (featuring Hodgy Beats)"
-"track_number":	2
-"song_length":	3:32
-
-
-
-"song_title":	"Cowboy"
-"song_title":	"Awkward"
-"song_title":	"Domo23"
-"song_title":	"Answer"
-"song_title":	"Slater (featuring Frank Ocean)"
-"song_title":	"48"
-"song_title":	"Colossus"
-"song_title":	"PartyIsntOver / Campfire / Bimmer" (featuring Lætitia Sadier and Frank Ocean)
-"song_title":	"IFHY (featuring Pharrell)"
-"song_title":	"Pigs"
-"song_title":	"Parking Lot (featuring Casey Veggies and Mike G)"
-"song_title":	"Rusty (featuring Domo Genesis and Earl Sweatshirt)"
-"song_title":	"Trashwang (featuring Left Brain, Na'kel, Jasper, Taco, L-Boy, Lucas and Lee Spielman)"
-"song_title":	"Treehome95 (featuring Erykah Badu and Coco Owino)"
-"song_title":	"Tamale"
-"song_title":	"Lone"
-
-"track_number":	3
-"track_number":	4
-"track_number":	5
-"track_number":	6
-"track_number":	7
-"track_number":	8
-"track_number":	9
-"track_number":	10
-"track_number":	11
-"track_number":	12
-"track_number":	13
-"track_number":	14
-"track_number":	15
-"track_number":	16
-"track_number":	17
-
-"song_length":	3:15
-"song_length":	3:47
-"song_length":	2:38
-"song_length":	3:50
-"song_length":	3:53
-"song_length":	4:07
-"song_length":	3:33
-"song_length":	7:18
-"song_length":	5:19
-"song_length":	4:14
-"song_length":	3:53
-"song_length":	5:09
-"song_length":	4:42
-"song_length":	3:00
-"song_length":	2:46
-"song_length":	4:00
 
 
 
