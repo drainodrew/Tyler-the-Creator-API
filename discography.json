@@ -1,1 +1,248 @@
-{}
+[
+  {
+    "_id": "0",
+    "Project": [{
+      "title": "Bastard",
+      "type": "Mixtape",
+      "release_year": 2009,
+      "album_length": "55:50",
+      "songs": [
+        {
+          "song_title": "Bastard",
+          "track_number": 1,
+          "song_length": "6:09",
+          "lyrics": "Yo, fuck 2DopeBoyz and fuck Nah Right. And any other fuck-nigga-ass blog that can't put an 18 year old nigga. Making his own fucking beats, covers, videos and all that shit. Fuck you post-Drake-ass cliche-jerking, LA-slauson rapping. Fuck-nigga-ass Hypebeast niggas, now back to the album. Well, Tyler, hi, I'm Dr. TC and um, I'm guessing that your teacher sent you here to talk 'cause you were misbehaving. Um, it's gonna be three sessions: today, tomorrow, and the next day. So, just tell me something about yourself... Well, look, if, if you don't talk, I mean, these sessions are going to go slower. This is what the devil plays before he goes to sleep. Some food for thought? This food for death, go ahead and fucking eat. My father's dead, well I don't know, we'll never fucking meet. I cut my wrist and play piano cause I'm so depressed. Somebody call the pastor, this bastard is so possessed. This meeting just begun, nigga I'm Satan's son. My mother raised me a single parent so it's apparent. That I got love for my mother, none of you other fuckers. Are much important I'm getting angrier while recording. I'm feeling like the bulls, I've got a gang of wolves. Odd Future is children that's fucked up in they mental. Simple but probably not, fuck them. I'm tall, dark, skinny, my ears are big as fuck. Drunk white girls the only way I'll get my dick sucked. Suspended from school, coolest nigga without effort. Easy to spot like black bitches with fake leopard. Soak me up in a tampon, but keep the lamp on. Cause this album pack enough evil. That you can't fit inside a Jansport. Go to school with this"
+        },
+        {
+          "song_title": "Seven",
+          "track_number": 2,
+          "song_length": "3:29",
+          "lyrics": ""
+        },
+        {
+          "song_title": "Odd Toddlers (featuring Casey Veggies)",
+          "track_number": 3,
+          "song_length": "3:36",
+          "lyrics": ""
+        },
+        {
+          "song_title": "French! (featuring Hodgy Beats)",
+          "track_number": 4,
+          "song_length": "4:03",
+          "lyrics": ""
+        },
+        {
+          "song_title": "Blow", 
+          "track_number": 5,
+          "song_length": "2:55",
+          "lyrics": ""
+        },
+        {
+          "song_title": "Pigs Fly (featuring Domo Genesis)",
+          "track_number": 6,
+          "song_length": "3:35",
+          "lyrics": ""
+        },
+        {
+          "song_title": "Parade", 
+           "track_number": 7,
+           "song_length": "2:23",
+           "lyrics": ""
+        },
+        {
+          "song_title":  "Slow It Down (featuring Hodgy Beats)",
+           "track_number": 8,
+           "song_length": "3:08",
+           "lyrics": ""
+        },
+        {
+          "song_title": "AssMilk (featuring Earl Sweatshirt)",
+           "track_number": 9,
+           "song_length": "3:40",
+           "lyrics": ""
+        },
+        {
+          "song_title": "VCR / Wheels",
+           "track_number": 10,
+           "song_length": "3:28",
+           "lyrics": ""
+        },
+        {
+          "song_title": "Session (featuring Hodgy Beats, brandUn DeShay, and Mike G)",
+           "track_number": 11,
+           "song_length": "3:35",
+           "lyrics": ""
+        },
+        {
+          "song_title": "Sarah",
+           "track_number": 12,
+           "song_length": "4:47",
+           "lyrics": ""
+        },
+        {
+          "song_title": "Jack and the Beanstalk",
+           "track_number": 13,
+           "song_length": "3:51",
+           "lyrics": ""
+        },
+        {
+          "song_title": "Tina (featuring Jasper Dolphin and Taco)",
+           "track_number": 14,
+           "song_length": "3:07",
+           "lyrics": ""
+        },
+        {
+          "song_title": "Inglorious",
+           "track_number": 15,
+           "song_length": "4:05",
+           "lyrics": ""
+        }]
+      },
+        {
+          "title": "Goblin",
+          "type": "Studio Album",
+          "release_year": 2011,
+          "Date": "2011-05-10",
+          "album_length": "82:06",
+          "songs": [
+            {
+              "song_title": "Goblin",
+              "track_number": 1,
+              "song_length": "6:48",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Yonkers",
+              "track_number": 2,
+              "song_length": "4:09",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Radicals",
+              "track_number": 3,
+              "song_length": "7:18",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Radicals",
+              "track_number": 3,
+              "song_length": "7:18",
+               "lyrics": ""
+            },
+            {
+              "song_title": "She (featuring Frank Ocean)",
+              "track_number": 4,
+              "song_length": "4:13",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Transylvania",
+              "track_number": 5,
+              "song_length": "3:12",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Nightmare",
+              "track_number": 6,
+              "song_length": "5:22",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Tron Cat",
+              "track_number": 7,
+              "song_length": "4:13",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Her",
+              "track_number": 8,
+              "song_length": "3:31",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Sandwitches (featuring Hodgy Beats)",
+              "track_number": 9,
+              "song_length": "4:51",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Fish",
+              "track_number": 10,
+              "song_length": "6:19",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Analog (featuring Hodgy Beats)",
+              "track_number": 11,
+              "song_length": "2:54",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Bitch Suck Dick (featuring Jasper Dolphin and Taco)",
+              "track_number": 12,
+              "song_length": "3:36",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Window (featuring Domo Genesis, Frank Ocean, Hodgy Beats and Mike G)",
+              "track_number": 13,
+              "song_length": "8:00",
+               "lyrics": ""
+            },
+            {
+              "song_title": "AU79",
+              "track_number": 14,
+              "song_length": "3:40",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Golden",
+              "track_number": 15,
+              "song_length": "5:43",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Burger (featuring Hodgy Beats)",
+              "track_number": 16,
+              "song_length": "3:49",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Untitled 63",
+              "track_number": 17,
+              "song_length": "1:06",
+               "lyrics": ""
+            },
+            {
+              "song_title": "Steak Sauce",
+              "track_number": 18,
+              "song_length": "3:22",
+               "lyrics": ""
+            }]
+        }, 
+    ]
+
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
