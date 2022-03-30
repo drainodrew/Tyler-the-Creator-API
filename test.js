@@ -72,3 +72,18 @@ And please never disrespect my set
 With Canons hanging from our necks like it's a motherfucking circus`
 
 console.log(JSON.stringify(lyrics))
+
+function htmlToText(html) {
+  let tempDiv = document.createElement("div");
+  tempDiv.innerHTML = html;
+  return tempDiv.textContent || tempDiv.innerText || "";
+}
+
+const url = 'https://en.wikipedia.org/wiki/Tyler,_the_Creator_discography';
+
+$.getJSON(url, function(data) {
+ const html = data['parse']['text'];
+ const plainText = htmlToText(html);
+ const array = [...plainText.matchAll(/^\d{4} *–.*/gm)].map(x=>x[0]);
+ console.log(array);
+});

@@ -5,6 +5,7 @@
       "title": "Bastard",
       "type": "Mixtape",
       "release_year": 2009,
+      "Date": "2009-12-25",
       "album_length": "55:50",
       "songs": [
         {
@@ -220,6 +221,48 @@
                "lyrics": ""
             }]
         }, 
+        {
+          "title": "Wolf",
+          "type": "Studio Album",
+          "release_year": 2013,
+          "Date": "2013-04-02",
+          "album_length": "",
+          "songs": []
+        },
+        {
+          "title": "Cherry Bomb",
+          "type": "Studio Album",
+          "release_year": 2015,
+          "Date": "2015-04-15",
+          "album_length": "",
+          "songs": []
+        },
+        {
+          "title": "Flower Boy",
+          "type": "Studio Album",
+          "release_year": 2017,
+          "Date": "2017-07-21",
+          "album_length": "",
+          "songs": []
+        },
+        {
+          "title": "IGOR",
+          "type": "Studio Album",
+          "release_year": 2019,
+          "Date": "2019-05-17",
+          "album_length": "",
+          "songs": []
+        },
+        {
+          "title": "Call Me If You Get Lost",
+          "type": "Studio Album",
+          "release_year": 2021,
+          "Date": "2021-06-25",
+          "album_length": "",
+          "songs": []
+        }
+        }
+        }
     ]
 
     }
