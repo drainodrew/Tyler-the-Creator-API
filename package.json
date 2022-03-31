@@ -3,11 +3,10 @@
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js",
-    "db:seed": "node seed/data.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "db:seed": "node seed.js"
   },
   "repository": {
     "type": "git",

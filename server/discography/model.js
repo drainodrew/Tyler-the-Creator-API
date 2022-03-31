@@ -1,4 +1,4 @@
-import mongoose from "mongoose"
+let mongoose = require('mongoose')
 let schema = new mongoose.Schema({
   title: String,
   type: String,

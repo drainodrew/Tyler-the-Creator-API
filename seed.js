@@ -1,16 +1,14 @@
-import db from "./database";
-import model from "./server/discography/model";
-import discography from "./discography.json" 
+let db = require("./database");
+let Discography = require("./server/discography/model");
+let discographies = require("./discography.json") 
 
 const insertData = async () => {
   // reset database
   db.dropDatabase();
 
-  // insert characters into database
-  await Character.insertMany(characters);
+  // insert discography into database
+  await Discography.insertMany(discographies);
 
-  // insert houses into database
-  await House.insertMany(houses);
 
   // close db connection (done)
   db.close();
