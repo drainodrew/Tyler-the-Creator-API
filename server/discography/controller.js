@@ -12,12 +12,12 @@ let controller = {
           .json({error: "Something went wrong"})
       })
   },
-  getByName(request, response) {
+  getById(request, response) {
     model
-      .findOne(request.params.name)
+      .findById(request.params.id)
       .then(data=> response.json(data))
       .catch(error=> {
-        console.error("Error on getByName()")
+        console.error("Error on getById()")
         response
           .status(500)
           .json({error: "Something went wrong"})
