@@ -4,6 +4,30 @@ This simple API shares Tyler, the Creator's discography with its users.
 
 The app is built with MongoDB and Express.
 
+# Instructions for Local Manipulation
+
+1. Clone down this repo.
+2. Install dependencies.
+3. Seed the database.
+4. Start server link.
+5. View the API through a browser or manipulate its information through apps like Postman.
+
+## Clone Repository
+
+git clone https://github.com/drainodrew/Tyler-the-Creator-API
+
+## Install dependencies
+
+npm install express mongoose node-fetch dotenv
+
+## Seed the data
+
+npm run seed.js
+
+## Connect to server
+
+npm start
+
 ## Data
 
 The main database has all of Tyler, the Creator's studio albums. The keys are:
