@@ -20,7 +20,7 @@ mongoose.connection.on("disconnected", () =>
 
 
 mongoose.connection.on("error", (error) =>
-  console.error(chalk.red(`MongoDB connection error: ${error}`))
+  console.error(`MongoDB connection error: ${error}`)
 );
 
 
