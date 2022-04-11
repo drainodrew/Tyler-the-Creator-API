@@ -1,7 +1,7 @@
 let mongoose = require('mongoose')
 
 const MONGODB_URI =
-  process.env.PROD_MONGODB || "mongodb://127.0.0.1:27017/potted-binturongs";
+  process.env.PROD_MONGODB || "mongodb://127.0.0.1:27017/tyler-the-creator-api";
 
 // Uncomment to debug Mongoose queries
 // mongoose.set('debug', true)
@@ -15,12 +15,15 @@ mongoose
   );
 
 mongoose.connection.on("disconnected", () =>
-  console.log(chalk.bold(`Disconnected from MongoDB!`))
+  console.log(`Disconnected from MongoDB!`)
 );
+
 
 mongoose.connection.on("error", (error) =>
   console.error(chalk.red(`MongoDB connection error: ${error}`))
 );
+
+
 
 
 
