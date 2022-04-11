@@ -1,13 +1,27 @@
 let mongoose = require('mongoose')
 
-let mongooseConfig = { useNewUrlParser: true, useUnifiedTopology: true }
+const MONGODB_URI =
+  process.env.PROD_MONGODB || "mongodb://127.0.0.1:27017/potted-binturongs";
 
-let connectionString = `mongodb://127.0.0.1:27017/tyler-the-creator-api`
+// Uncomment to debug Mongoose queries
+// mongoose.set('debug', true)
 
-mongoose.connect(connectionString, mongooseConfig)
+mongoose.set("returnOriginal", false);
 
-mongoose.connection.on('connected', ()=> console.log("Connected to database"))
-mongoose.connection.on('disconnected', ()=> console.log("Disconnected from database"))
-mongoose.connection.on('error', error => console.error("Database error\n", error))
+mongoose
+  .connect(MONGODB_URI)
+  .catch((error) =>
+    console.error("Error connecting to MongoDB: ", error.message)
+  );
+
+mongoose.connection.on("disconnected", () =>
+  console.log(chalk.bold(`Disconnected from MongoDB!`))
+);
+
+mongoose.connection.on("error", (error) =>
+  console.error(chalk.red(`MongoDB connection error: ${error}`))
+);
+
+
 
 module.exports = mongoose.connection
