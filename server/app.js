@@ -1,6 +1,6 @@
 let express = require('express')
 let router = require('./router')
-import cors from "cors"
+let cors = require ("cors")
 
 // Create an app and set the PORT
 let app = express()
@@ -12,7 +12,6 @@ app.use(router)
 
 // Set a default route for all requests
 app.use("/tyler-the-creator-api", routes)
-
 
 
 module.exports = app
