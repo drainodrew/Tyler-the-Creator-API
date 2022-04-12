@@ -33,6 +33,8 @@ let controller = {
           .status(500)
           .json({error: "Something went wrong"})
       })
+    
+
   },
   update(request, response) {
     model
