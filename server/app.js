@@ -10,8 +10,5 @@ app.use(express.json())
 app.use(cors())
 app.use(router)
 
-// Set a default route for all requests
-app.use("/tyler-the-creator-api", routes)
-
 
 module.exports = app
